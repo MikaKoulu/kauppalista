@@ -1,2 +1,2 @@
 # kauppalista
-Koulun git-bash kauppalista harjoitus.
+Koulun git-bash kauppalista harjoitus. Aika lame.
